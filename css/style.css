@@ -1,0 +1,13 @@
+body {
+    background-color: rgb(42, 42, 48);
+}
+
+#boton-contacto:active {
+    background-color: greenyellow;
+    transform: translateY(2px);
+    border: none;
+}
+
+.btn-check:focus+.btn-light, .btn-light:focus {
+    box-shadow: none;
+}
