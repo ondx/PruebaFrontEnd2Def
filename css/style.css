@@ -11,3 +11,10 @@ body {
 .btn-check:focus+.btn-light, .btn-light:focus {
     box-shadow: none;
 }
+
+#codigo-honor {
+    padding-top: 70px;
+    padding-left: 250px;
+    margin-left: auto;
+    margin-right: auto;
+}
